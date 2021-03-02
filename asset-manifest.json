@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react_AmazonClone/static/css/main.46cd71e0.chunk.css",
+    "main.js": "/react_AmazonClone/static/js/main.7ea78577.chunk.js",
+    "main.js.map": "/react_AmazonClone/static/js/main.7ea78577.chunk.js.map",
+    "runtime-main.js": "/react_AmazonClone/static/js/runtime-main.de177bb0.js",
+    "runtime-main.js.map": "/react_AmazonClone/static/js/runtime-main.de177bb0.js.map",
+    "static/js/2.a4eaef22.chunk.js": "/react_AmazonClone/static/js/2.a4eaef22.chunk.js",
+    "static/js/2.a4eaef22.chunk.js.map": "/react_AmazonClone/static/js/2.a4eaef22.chunk.js.map",
+    "index.html": "/react_AmazonClone/index.html",
+    "precache-manifest.de2e101b60b29bc61a11fd82e9e5ee1b.js": "/react_AmazonClone/precache-manifest.de2e101b60b29bc61a11fd82e9e5ee1b.js",
+    "service-worker.js": "/react_AmazonClone/service-worker.js",
+    "static/css/main.46cd71e0.chunk.css.map": "/react_AmazonClone/static/css/main.46cd71e0.chunk.css.map",
+    "static/js/2.a4eaef22.chunk.js.LICENSE.txt": "/react_AmazonClone/static/js/2.a4eaef22.chunk.js.LICENSE.txt",
+    "static/media/home.jpg": "/react_AmazonClone/static/media/home.07c99833.jpg",
+    "static/media/product2.png": "/react_AmazonClone/static/media/product2.9bce223f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de177bb0.js",
+    "static/js/2.a4eaef22.chunk.js",
+    "static/css/main.46cd71e0.chunk.css",
+    "static/js/main.7ea78577.chunk.js"
+  ]
+}
